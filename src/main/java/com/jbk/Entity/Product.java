@@ -7,6 +7,7 @@ package com.jbk.Entity;
 
 
 public class Product {
+	
 
 private  String productId;
 private  String ProductName;
